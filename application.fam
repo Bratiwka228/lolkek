@@ -62,7 +62,7 @@ else:
 
 App(
     appid="proto_pirate",
-    name="PP",
+    name="ProtoPirate",
     apptype=FlipperAppType.EXTERNAL,
     targets=["f7"],
     entry_point="protopirate_app",
